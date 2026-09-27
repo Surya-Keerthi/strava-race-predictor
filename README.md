@@ -1,6 +1,7 @@
 # Strava Performance Dashboard & ML Race Predictor
 
 ![Dashboard Preview](dashboard.png)
+![Race Predictor Preview](predictor.png)
 An automated, effort-adjusted race time prediction engine and performance dashboard built with **Streamlit**, **Scikit-Learn**, and **Plotly**.
 
 ## Features
